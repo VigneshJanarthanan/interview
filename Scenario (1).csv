@@ -1,0 +1,6 @@
+﻿Source,,,Target,,,Output,
+ID,NAME,,ID,NAME,,ID,Comment
+1,A,,1,A,,3,New in Source
+2,B,,2,B,,5,New in Target
+3,C,,3,X,,4,Mismatch
+4,D,,4,F,,,
